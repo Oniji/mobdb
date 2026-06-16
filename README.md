@@ -1,4 +1,35 @@
-This is not a standalone addon. These files contain fixes that align MobDB's monster names with HorizonXI's names.
+This is not a standalone addon. These files contain fixes that allows MobDB to lookup monsters on HorizonXI that have names that differ from retail.
+
+## Installation
+
+Choose the installation method that matches the addon you are using.
+
+### MobDB Users
+
+1. Download the latest files from this repository.
+2. Copy the downloaded contents directly into your MobDB installation folder.
+
+**Install Location:**
+
+```text
+<HorizonXI Install Directory>\Game\addons\mobdb\
+```
+
+> **Note:** Allow Windows to overwrite any existing files when prompted.
+
+---
+
+### XIUI Users
+
+1. Download the latest files from this repository.
+2. Open the `data` folder from the downloaded files.
+3. Copy the contents of the `data` folder into the following directory:
+
+```text
+<HorizonXI Install Directory>\Game\addons\XIUI\submodules\mobdb\addons\mobdb\data
+```
+
+> **Note:** Allow Windows to overwrite any existing files when prompted.
 
 Currently only contains fixes for the following zones.
 
